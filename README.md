@@ -68,15 +68,15 @@ This repository contains data-driven insights into the music industry, focusing 
 
 ## Repository Contents 📂  
 1. **Dataset**: The raw data used for analysis is provided in CSV format.  
-2. **Code**: Python scripts for data preprocessing, analysis, and visualization.  
+2. **Code**: SQL for data preprocessing, analysis, and visualization.  
 3. **Charts**: Graphical visualizations in PNG format.  
 
 ---
 
 ## Tools Used 🛠️  
-- **Python Libraries**:  
-   - Pandas (data cleaning)  
-   - Matplotlib/Seaborn (visualizations)  
+- **SQL**:  
+   - PostgreSQL  
+
 - **GitHub Integration**: For version control and sharing analysis.  
 
 ---
